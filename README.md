@@ -1,6 +1,6 @@
 # Chat AI Assistant (iOS Shortcut)
 
-**Chat** is a personal AI voice assistant for iPhone using Apple Shortcuts and OpenAI's GPT API. It listens to your voice, processes the input using ChatGPT, and responds out loud in a British accent.
+**Chat** is a personal AI voice assistant for iPhone using Apple Shortcuts and OpenAI's GPT API. It listens to your voice, processes the input using ChatGPT, and responds out loud.
 
 ---
 
