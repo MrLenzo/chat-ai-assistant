@@ -1,0 +1,5 @@
+{
+  "name": "Chat",
+  "description": "Placeholder file for the Chat AI Assistant Shortcut. To use: build the shortcut on your iPhone, then export it and replace this file.",
+  "note": "This is not a functional Shortcut. Create the Chat shortcut on your iPhone, connect it to the ChatGPT API, and re-export the shortcut to replace this placeholder."
+}
